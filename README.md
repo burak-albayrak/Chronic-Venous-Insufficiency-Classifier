@@ -2,18 +2,6 @@
 
 This project focuses on classifying images of Chronic Venous Insufficiency (CVI) into three categories: **Mild**, **Moderate**, and **Severe**. The goal is to implement an efficient method for automatic categorization of CVI images using deep learning and advanced techniques such as ensemble models.
 
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Methodology](#methodology)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [How to Run](#how-to-run)
-- [Team Members](#team-members)
-
----
-
 ## Project Description
 
 Inspired by a work published in [Scientific Reports](https://www.nature.com/articles/s41598-018-36284-5), this project aims to create a hybrid approach for classifying Chronic Venous Insufficiency images. Using a combination of transfer learning and advanced augmentation, the model achieves high accuracy in categorizing CVI images into three severity levels.
